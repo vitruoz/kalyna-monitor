@@ -13,7 +13,7 @@ import instaloader
 from datetime import datetime
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
-TELEGRAM_TOKEN = "8759128369:AAH3VMD3FN9r2gRW2PqpHdmbMFjkr4bXkjg"
+TELEGRAM_TOKEN = "8890947908:AAGjJ9akjglQ2NLciYoaiOyMjpSXXomCjvc"
 TELEGRAM_CHAT_ID = "354854283"
 CHECK_INTERVAL = 3600
 DATA_FILE = "/tmp/last_posts.json"
